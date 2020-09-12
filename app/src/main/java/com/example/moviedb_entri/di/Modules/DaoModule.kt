@@ -11,6 +11,6 @@ import dagger.Provides
 class DaoModule {
 
     @Provides
-    fun provideGitHubRepoEntityDao(database: MovieDatabase): MovieDao = database.MovieEntityDao()
+    fun provideMovieDbDao(database: MovieDatabase): MovieDao = database.MovieEntityDao()
 
 }
