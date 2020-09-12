@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <import type="android.view.View" />
+        <variable
+            name="viemodel"
+            type="com.example.moviedb_entri.ui.HomeViewModel" />
+
+
+
+
+    </data>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:background="@color/white_smoke"
+        android:layout_height="match_parent"
+        tools:context=".ui.HomeActivity">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                app:layout_scrollFlags="scroll|enterAlways|snap"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+                <com.google.android.material.textview.MaterialTextView
+                    android:layout_width="wrap_content"
+                    android:text="Movies Home"
+                    android:textSize="24sp"
+                    android:textColor="@android:color/white"
+                    android:layout_height="wrap_content"/>
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvMovies"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="5sp"
+            android:layout_marginTop="8sp"
+            android:paddingLeft="5sp"
+            android:paddingEnd="5sp"
+            app:layout_anchor="@id/appBar"
+            app:layout_anchorGravity="start|bottom"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:paddingRight="5sp"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="vertical" />
+        <androidx.core.widget.ContentLoadingProgressBar
+            android:id="@+id/pbLoading"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="@{viemodel.isLoading ? View.VISIBLE : View.GONE}" />
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</layout>

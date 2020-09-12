@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detail.xml",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    }
+]

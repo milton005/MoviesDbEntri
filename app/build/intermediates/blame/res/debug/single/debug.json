@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_text_regular.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_text_regular.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_bold.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_bold.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_semi_bold.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_semi_bold.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_light.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_light.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_medium.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_text_semibold.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_text_semibold.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_text_regular_italic.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_text_regular_italic.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_heavy.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_heavy.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_medium.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_medium.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_black.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_medium_italic.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_medium_italic.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\layout_movie_item_raw.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\layout\\movie_item_raw.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_italic.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_italic.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_black.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_black.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_extrbold.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_extrbold.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_light.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_light.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_extrabold.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_extrabold.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_heavy_italic.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_heavy_italic.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_regular.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_regular.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_ultralight.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_ultralight.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_regular.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\nunito_regular.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_bold.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_bold.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_thinitalic.ttf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\roboto_thinitalic.ttf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_text_heavy.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_text_heavy.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_text_bold.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_text_bold.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_thin.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_thin.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_thin_italic.otf.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\font\\sf_thin_italic.otf"
+    },
+    {
+        "merged": "F:\\binto\\MovieDB_entri\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\binto\\MovieDB_entri\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
