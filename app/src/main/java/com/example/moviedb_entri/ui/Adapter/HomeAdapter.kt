@@ -13,9 +13,10 @@ import com.example.moviedb_entri.Util.Constants
 import com.sheraz.listrepos.utils.MovieDiffCallback
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.movie_item_raw.view.*
+import javax.inject.Inject
 
 
-class HomeAdapter (
+class HomeAdapter @Inject constructor(
 
     private val mPicasso: Picasso
 ) : PagedListAdapter<ResultsItem, HomeAdapter.ViewHolder>(MovieDiffCallback()) {

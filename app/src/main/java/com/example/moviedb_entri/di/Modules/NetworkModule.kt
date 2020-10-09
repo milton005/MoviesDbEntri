@@ -11,6 +11,9 @@ import com.squareup.picasso.Picasso
 
 import dagger.Module
 import dagger.Provides
+import dagger.hilt.InstallIn
+import dagger.hilt.android.components.ApplicationComponent
+import dagger.hilt.android.qualifiers.ApplicationContext
 import okhttp3.Cache
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
@@ -19,6 +22,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
 
 @Module
+@InstallIn(ApplicationComponent::class)
 class NetworkModule {
 
     @Provides
@@ -31,7 +35,7 @@ class NetworkModule {
 
     @Provides
     @Singleton
-    fun provideOkHttpClient(context: Context, httpLoggingInterceptor: HttpLoggingInterceptor) : OkHttpClient {
+    fun provideOkHttpClient(@ApplicationContext context: Context, httpLoggingInterceptor: HttpLoggingInterceptor) : OkHttpClient {
         val cache = Cache(context.cacheDir, CACHE_SIZE)
         return OkHttpClient.Builder()
             .addInterceptor(httpLoggingInterceptor)
@@ -47,7 +51,7 @@ class NetworkModule {
 
     @Provides
     @Singleton
-    fun providePicasso(context: Context, okHttp3Downloader: OkHttp3Downloader): Picasso {
+    fun providePicasso(@ApplicationContext context: Context, okHttp3Downloader: OkHttp3Downloader): Picasso {
         return Picasso.Builder(context).downloader(okHttp3Downloader).build()
     }
 

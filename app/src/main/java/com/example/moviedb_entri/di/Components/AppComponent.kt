@@ -15,34 +15,34 @@ import dagger.Component
 import retrofit2.Retrofit
 import javax.inject.Singleton
 
-@Singleton
-@Component(
-    modules = [
-        HomeModule::class,
-        ContextModule::class,
-        NetworkModule::class,
-        DispatcherProviderModule::class,
-        DatabaseModule::class,
-        DaoModule::class,
-        RepositoryModule::class
-
-
-    ]
-)
-
-interface AppComponent {
-
-    fun appContext(): Context
-    fun database(): MovieDatabase
-    fun movieEntityDao(): MovieDao
-    fun retrofit(): Retrofit
-    fun apiService(): ApiService
-    fun NetworkDataSource(): NetworkDataSource
-    fun picasso(): Picasso
-    fun appRepository(): AppRepository
-    fun homeAdapter(): HomeAdapter
-    fun homeViewModel(): HomeViewModel
-    fun viewModelFactory(): ViewModelProvider.Factory
-
-
-}
+//@Singleton
+//@Component(
+//    modules = [
+//        HomeModule::class,
+//        ContextModule::class,
+//        NetworkModule::class,
+//        DispatcherProviderModule::class,
+//        DatabaseModule::class,
+//        DaoModule::class,
+//        RepositoryModule::class
+//
+//
+//    ]
+//)
+//
+//interface AppComponent {
+//
+//    fun appContext(): Context
+//    fun database(): MovieDatabase
+//    fun movieEntityDao(): MovieDao
+//    fun retrofit(): Retrofit
+//    fun apiService(): ApiService
+//    fun NetworkDataSource(): NetworkDataSource
+//    fun picasso(): Picasso
+//    fun appRepository(): AppRepository
+//    fun homeAdapter(): HomeAdapter
+//    fun homeViewModel(): HomeViewModel
+//    fun viewModelFactory(): ViewModelProvider.Factory
+//
+//
+//}

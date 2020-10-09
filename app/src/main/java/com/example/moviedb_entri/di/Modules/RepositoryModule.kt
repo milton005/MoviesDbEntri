@@ -9,9 +9,13 @@ import com.example.moviedb_entri.data.repository.AppRepository
 import com.example.moviedb_entri.data.repository.AppRepositoryImpl
 import dagger.Module
 import dagger.Provides
+import dagger.hilt.InstallIn
+import dagger.hilt.android.components.ActivityRetainedComponent
+import dagger.hilt.android.components.ApplicationComponent
 import javax.inject.Singleton
 
 @Module
+@InstallIn(ApplicationComponent::class)
 class RepositoryModule {
 
     @Provides
